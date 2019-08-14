@@ -8,7 +8,7 @@ describe Car do
 
     # act
 
-    car.add_fuel
+    car.add_fuel 10
 
     #assert
 
